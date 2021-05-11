@@ -1,0 +1,20 @@
+1/Hans Fallada/Along in Berlin/950/true/true/1942/AST/false/german/historical novel
+2/J.K.Rowling/Harry Potter and Chamber of Secrets/452/true/true/2003/Rosmen/true/english/fantasy
+3/Markus Zusak/The Books Thief/507/true/true/2005/Exmo/true/german/historical novel
+4/I.N.Blinov/Java Industrial Programming/701/false/false/2007/Epam/false/russian/technical literature
+5/Natalia Shcherba/Clock key/403/false/true/2011/Rosmen/true/russian/fantasy
+6/Diana Akerman/The wife of Zookeeper/463/false/false/2006/Rosmen/true/polish/historical novel
+7/Louise May Alcott/Little women/365/true/false/1875/AST/true/english/historical novel
+8/Natalia Shcherba/Clock heart/412/true/true/2012/Rosmen/true/russian/fantasy
+9/Stephen Howking/Theory of Everything/398/false/true/2010/Exmo/false/english/sciense
+10/Edward Radzinsky/Nicholas II/522/false/false/2005/Exmo/false/russian/historical novel
+11/J.K.Rowling/Harry Potter and Half-Blood Prince/600/true/true/2003/Rosmen/false/english/fantasy
+12/J.K.Rowling/Harry Potter and  Prisoner of Azkaban/500/true/false/2005/Rosmen/true/english/fantasy
+13/Ernest Hemingway/The Sun also Rises/203/false/falce/1984/Exmo/false/genglish/historical novel
+14/Erich Maria Remarque/All Quiet on the Western Front/701/true/false/1943/Exmo/false/german/historical novel
+15/Erich Maria Remarque/Triumphal Arch/312/false/true/1945/AST/true/german/historical novel
+16/Erich Maria Remarque/Three comrades/415/false/false/1942/AST/true/german/historical novel
+17/Louise May Alcott/Good wives/300/true/false/1880/AST/true/english/historical novel
+18/Natalia Shcherba/Clock tower/465/true/true/2014/Rosmen/true/russian/fantasy
+19/Stephen Howking/The future of space-time/398/false/true/2012/Exmo/false/english/sciense
+20/Susan Collins/The Hunger Games/632/false/true/20013/Exmo/false/english/non-fiction
